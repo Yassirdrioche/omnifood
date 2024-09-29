@@ -4,4 +4,4 @@ Fully responsive reactjs app, shows different meals and informations about any m
 
 ## Deployment
 
-[See Project On Netlify](https://fakhereddine-react-omnifood.netlify.app/)
+[See Project On Netlify]
